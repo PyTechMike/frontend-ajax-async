@@ -26,3 +26,5 @@ http://www.mocky.io/v2/55f748ca3568195f044b3dc9
 
 Соблюдать разделение обязанностей функций. Не перегружать их функциональностью, а разбивать на более мелкие. Используйте паттерны проектирования для инкапсуляции и создания тестируемого кода.
 
+To run use command: `node src/index.js`
+Look for in the browser by link: `localhost:3000/src/index.js` or [click here](localhost:3000/src/index.js)

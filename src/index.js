@@ -59,8 +59,4 @@ function responseHandler() {
 
 startServer(3000);
 getDataAsync()
-// getDataConsist()
-
-
-
-Add Comment
+getDataConsist()
