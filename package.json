@@ -1,0 +1,19 @@
+{
+  "name": "frontend-ajax-async",
+  "version": "1.0.0",
+  "description": "http://www.mocky.io/v2/55f7485935681951044b3dc6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PyTechMike/frontend-ajax-async.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PyTechMike/frontend-ajax-async/issues"
+  },
+  "homepage": "https://github.com/PyTechMike/frontend-ajax-async#readme"
+}
